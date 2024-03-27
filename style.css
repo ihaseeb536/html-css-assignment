@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h3{
+    /* margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px; */
+     /* margin: 20px 10px 30px 10px; */
+    /* margin: 30px 50px; */
+    /* margin: 40px; */
+
+    /* padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 40px; */
+    /* padding: 10px 20px 40px 40px; */
+    /* padding: 40px 20px; */
+    /* padding: 40px; */
+
+    margin: 20px;
+    text-align: center;
+
+    border: 10px dotted black;
+    border-radius: 8px;
+
+    color: skyblue;
+    background-color: blue;
+    background: linear-gradient(45deg,red, blue green,yellow );
+    background-color: red;
+}
+h2{
+    background-color: gray;
+}
+
+
+
+
